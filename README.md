@@ -30,4 +30,4 @@
 * 연설문
 
 ## Google API
-* Google Map을 통한 위치 
+* Google Map을 통한 지도 표시
